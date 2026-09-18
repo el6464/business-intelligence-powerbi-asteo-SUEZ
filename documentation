@@ -1,0 +1,7 @@
+Architecture BI
+La chaîne de traitement suit une logique de centralisation et d'analyse :
+
+Sources de données ↓ Data Warehouse ↓ SQL / PostgreSQL ↓ Power Query ↓ Modèle de données Power BI ↓ DAX ↓ KPI ↓ Tableaux de bord
+
+Objectif
+Transformer différentes sources de données en indicateurs exploitables pour le suivi de la performance opérationnelle.
